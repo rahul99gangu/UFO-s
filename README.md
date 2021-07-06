@@ -49,9 +49,8 @@ The technologies used were javascript, bootstrap, and html. The raw data (data.j
 
 1. Javascript ES6 standard
 2. D3.js
-3. Boostrap 4 (Mobile first) instead of Boostrap 3 (Desktop first)
-4. CSS3 
-5. HTML5
+3. CSS3 
+4. HTML5
 
 **Software**
 ---
